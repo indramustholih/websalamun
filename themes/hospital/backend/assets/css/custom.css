@@ -1,0 +1,30 @@
+/** CUSTOM CSS
+	AUTHOR : Aeng A. Sanusi
+	EMAIL : info@digitak.id
+**/
+
+.grid-view .summary, .list-view .summary{
+		font-size : 11px;
+		font-style : italic;
+}
+
+.list-view .summary{
+	margin-right: 20px;	
+}
+
+th > a, td > a{
+		color: #1ab394;
+}
+
+
+.footer {
+	bottom: 0;
+}
+
+.ibox-content .grid-view{
+	padding-top:5px;
+}
+
+.skin-2 .nav > li > a{
+    color: #999999 ;
+}

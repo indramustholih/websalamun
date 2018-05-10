@@ -1,0 +1,53 @@
+/** This Custom css
+    Author : Mediantara group
+**/
+
+/** Main Slider 1 **/
+
+#main-slider-1 .th-homeslider figure{
+  height:500px;
+}
+
+#main-slider-1 .th-slidercontent:before{
+  background: none;
+}
+
+#main-slider-1 .th-homeslider h1{
+  font-size:38px;
+  line-height:40px;
+}
+
+#main-slider-1 .th-homeslider h1 span {
+  font-size:60px;
+  line-height: 55px;
+}
+
+
+#main-slider-2 .th-homeslider figure{
+  height:800px;
+}
+
+#main-slider-2 .th-homeslider h1{
+  font-size:38px;
+  line-height:40px;
+}
+
+#main-slider-2 .th-homeslider h1 span {
+  font-size:60px;
+  line-height: 55px;
+}
+
+#main-slider-2 .th-slidercontent:before{
+  background: none;
+}
+
+#main-slider-2 .th-homesliderthree{
+  background: none;
+}
+
+#main-slider-2 .th-homesliderthree.th-homeslider figure img {
+    opacity: 1;
+}
+
+#main-slider-2 .th-slidercontent{
+}
